@@ -22,6 +22,8 @@ flower = "*"
 django-redis = "*"
 whitenoise = "*"
 gunicorn = "*"
+dj-database-url = "*"
+django-silk = "*"
 
 [dev-packages]
 autopep8 = "*"
